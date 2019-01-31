@@ -1,2 +1,1 @@
-# java-projects
-Personal Projects
+# School Project
